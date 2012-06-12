@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{4DAE4698-A301-46BF-8DF4-354DCA5012BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{AE093299-B127-4AB7-8ADC-CB6A32F21B43}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+		WebApplication3.vsmdi = WebApplication3.vsmdi
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = WebApplication3.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DAE4698-A301-46BF-8DF4-354DCA5012BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DAE4698-A301-46BF-8DF4-354DCA5012BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DAE4698-A301-46BF-8DF4-354DCA5012BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DAE4698-A301-46BF-8DF4-354DCA5012BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
